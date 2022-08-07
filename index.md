@@ -13,8 +13,10 @@ struct file {
   requires_apv: bool
 };
 
-fn scan(filethreadapi) {
-  filethreadapi.get_file_size();
+// Uses std::fs::File
+fn scan() {
+  let mut downloaded_file = File::create(file_path).unwrap();
+  downloaded_file.metadata().unwrap().len();
 }
 ```
 
