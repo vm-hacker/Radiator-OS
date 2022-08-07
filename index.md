@@ -7,3 +7,7 @@ Since the OS is open source, developers can see the source code and patch possib
 
 # It's a Modern OS
 The OS features it's very own Desktop Environment which has a simmilar resemblance to Apple's Mac OS.
+
+
+Copyright (c) 2022-2023 Venkatesh Mishra, All rights reserved.
+Copyright (c) 2022-2023 Netwrk3, Inc. All rights reserved.
