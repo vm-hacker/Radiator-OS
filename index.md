@@ -3,3 +3,7 @@ The operating system for everyone. Software developers, System Admins, Ethical H
 
 # Why use Radiator OS ?
 As mentioned earlier Radiator is lighweight OS, which means it used less computer resource to function and gives other software more resources to function. This also means that Radiator can give better performence than other Operating Systems on Older or Newer Hardware. It has a memory decreasing Algorithm specificly made for this purpose. Also mentioned earlier was the fact that Radiator OS is secure. It has a file scanning process written in Rust and also a custom made firewall by Netwrk-3.
+Since the OS is open source, developers can see the source code and patch possible vulnebilities or bugs that might occur. 
+
+# It's a Modern OS
+The OS features it's very own Desktop Environment which has a simmilar resemblance to Apple's Mac OS.
